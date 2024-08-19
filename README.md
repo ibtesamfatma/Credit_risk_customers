@@ -13,11 +13,11 @@ We dived deep into the data using exploratory data analysis (EDA) to uncover hid
 
 Observations:
 
-Property Magnitude Impact: The chart suggests that the type of property significantly influences the proportion of bad and good loans.
-Real Estate Dominance: Among the property types, real estate exhibits the highest percentage of good loans, followed by life insurance and car ownership.
-No Known Property: This category shows the lowest percentage of good loans, indicating a potential risk factor.
-Consistent Bad Loan Percentage: Across all property types, the percentage of bad loans remains relatively consistent, ranging from approximately 20% to 40%.
-Data Imbalance: The chart might indicate a potential class imbalance issue, as the percentage of good loans consistently outnumbers bad loans.
+- Property Magnitude Impact: The chart suggests that the type of property significantly influences the proportion of bad and good loans.
+- Real Estate Dominance: Among the property types, real estate exhibits the highest percentage of good loans, followed by life insurance and car ownership.
+- No Known Property: This category shows the lowest percentage of good loans, indicating a potential risk factor.
+- Consistent Bad Loan Percentage: Across all property types, the percentage of bad loans remains relatively consistent, ranging from approximately 20% to 40%.
+- Data Imbalance: The chart might indicate a potential class imbalance issue, as the percentage of good loans consistently outnumbers bad loans.
 
 Numerical Features: Kernel density estimation (KDE) plots revealed intriguing insights:
 Debt-to-Income Ratio: Lower debt-to-income ratios were strongly linked to good creditworthiness. 📈📉
